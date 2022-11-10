@@ -1,0 +1,4 @@
+# ninja log v5
+23	368	6896423257959033	CMakeFiles/GE_SFML_Debug.dir/Engine/helpers/Motion.cpp.obj	9086a4139472bb7e
+32	373	6896423258068741	CMakeFiles/GE_SFML_Debug.dir/Engine/helpers/TaskManager.cpp.obj	ed72ae3615e7f2e
+13	506	6896423259435100	CMakeFiles/GE_SFML_Debug.dir/Engine/debug/DebugLog.cpp.obj	9c9e86066308e6b
